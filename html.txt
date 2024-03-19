@@ -1,0 +1,15 @@
+Answer 1: Inline elements never begin on a new line. Block elements completely fill the accessible area from left to right. Only the area defined by the tags in the HTML element is covered by inline elements. There are top and bottom margins for block elements.
+
+Answer 2: The <img> tag creates a holding space for the referenced image. The <img> tag has two required attributes: src - Specifies the path to the image. alt - Specifies an alternate text for the image, if the image for some reason cannot be displayed
+
+Answer 3 : Use the HTML <ol> element to define an ordered list.
+•use the HTML type attribute to define the numbering type.
+•Use the HTML <li> element to define a list item.
+•Lists can be nested.
+•List items can contain other HTML elements
+
+Answer 4
+•Use the <a> element to define a link.
+•Use the href attribute to define the link address.
+•Use the target attribute to define where to open the linked document.
+•Use the <img> element (inside <a> ) to use an image as a link.
